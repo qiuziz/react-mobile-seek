@@ -1,0 +1,6 @@
+*.html
+/build
+/config
+/pubilc
+/node_modules
+/scripts
